@@ -25,4 +25,5 @@ Beginner-friendly clean structure
 1. Download or clone the project
 2. Open index.html in any browser
 3. Navigate through pages using menu
+
 Made by: Sheeza Ahsan
