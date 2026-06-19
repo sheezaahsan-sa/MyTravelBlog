@@ -7,8 +7,11 @@ This is a simple beginner-friendly HTML project. It includes basic web pages lik
 🛠️ Technologies Used
 
 HTML5
+
 Basic file structure
+
 Images folder (for gallery and destinations)
+
 And basics of CSS to add colours
 
 📁 Project Structure
@@ -32,9 +35,13 @@ project-folder/
 └── images/
 
 ✨ Features
+
 Multiple web pages connected using navigation bar
+
 Separate pages for better organization
+
 Image gallery section
+
 Beginner-friendly clean structure
 
 🚀 How to Run
