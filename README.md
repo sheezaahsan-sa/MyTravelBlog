@@ -14,13 +14,21 @@ And basics of CSS to add colours
 📁 Project Structure
 
 project-folder/
+
 │
+
 ├── index.html
+
 ├── about.html
+
 ├── contact.html
+
 ├── gallery.html
+
 ├── destination.html
+
 ├── traveling-tips.html
+
 └── images/
 
 ✨ Features
